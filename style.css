@@ -2,6 +2,7 @@ body {
     margin: 0;
 }
 
+
 #site_header { 
     height: 11rem;
     background-image: url(./img/pattern.png);
@@ -21,6 +22,7 @@ main{
 
 h1 { 
     font-size: 3rem;
+   
     margin-bottom: 0;
 }
 
@@ -30,7 +32,8 @@ h1 {
 }
 .info {
     color: grey;
-}
+    
+    }
 .Scrittore {
     color:rgb(17, 137, 211);
 }
