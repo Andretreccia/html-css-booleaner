@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+#site_header { 
+    height: 11rem;
+    background-image: url(./img/pattern.png);
+    background-color: cornflowerblue;
+    
+}
+
+.logo_header {
+    height: 6em;
+    margin-top: 5em;
+    margin-left: 1em;
+}
