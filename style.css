@@ -42,3 +42,10 @@ h1 {
     font-size: small;
     
 }
+.evidenziato {
+    background-color:yellow;
+}
+
+.list {
+     margin-left: -25px;
+}
