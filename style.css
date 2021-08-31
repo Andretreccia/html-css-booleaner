@@ -14,3 +14,31 @@ body {
     margin-top: 5em;
     margin-left: 1em;
 }
+
+main{
+    margin: 10px;
+}
+
+h1 { 
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+
+.riferimenti_scrittore {
+    margin-bottom: 1em;
+   
+}
+.info {
+    color: grey;
+}
+.Scrittore {
+    color:rgb(17, 137, 211);
+}
+.data { 
+    color: grey;
+    font-size: small;
+}
+.crediti_foto { 
+    font-size: small;
+    
+}
